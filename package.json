@@ -1,6 +1,6 @@
 {
   "name": "mylibbb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library inventory system. Created using MERN stack",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "Tjdev7",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Toughee/iLib/issues"
+    "url": "https://github.com/Toughee/MyLibbb/issues"
   },
   "homepage": "https://toughee.github.io/MyLibbb/",
   "dependencies": {
