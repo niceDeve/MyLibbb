@@ -1,4 +1,4 @@
-![App logo](./src/img/MyLibbb_logo.svg)
+![App logo](./public/img/MyLibbb_logo.svg)
 
 # MyLibbb
 
