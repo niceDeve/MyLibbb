@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+.App {
+  text-align: center;
+}
+
+.menuItem {
+  display: block;
+  padding: 0.5rem;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #ffffff;
+  text-align: right;
+  float: left;
+  font-family: "Nunito", sans-serif;
+}
+
+/* .menuItem:hover {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    background-color: #fff;
+    padding: 0.5rem;
+} */
+
+body {
+  color: rgb(0, 0, 0);
+  background-color: #a6d0a6;
+}
+
+.headerStyle {
+  margin-bottom: 5rem;
+  padding: 0rem 0rem 4.2rem 0rem;
+  background-color: #1c263c;
+}
+
+.mainIcon {
+  width: 2rem;
+  height: 1rem;
+  padding: -1px;
+  margin: -1rem;
+}
+
+img,
+.autogenImg {
+  width: 15rem;
+  height: 10rem;
+  color: #000;
+  border-radius: 5%;
+  margin: 0.1rem;
+}
+
+h1 {
+  color: #000;
+}
+
+/*
+=======================================================================
+                  CSS styles for displayed data
+=======================================================================
+*/
+
+ul,
+li {
+  list-style-type: none;
+  text-align: center;
+}
