@@ -13,7 +13,7 @@
     "predeploy": "npm run build",
     "deploy": "npm run build&&gh-pages -d build",
     "litereport": "lighthouse http://localhost:3000/ --output json --output csv --output html --output-path tests/Lighthouse_audits/Lite.html --view | lighthouse-ci http://localhost:3000/",
-    "fullpr": "git add .&&git commit&&git:wq push&&git merge"
+    "fullpr": "git add .&&git commit&&git push&&git merge"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/tjdev7/MyLibbb/issues"
   },
-  "homepage": "https://toughee.github.io/MyLibbb/",
+  "homepage": "https://tjdev7.github.io/MyLibbb/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
