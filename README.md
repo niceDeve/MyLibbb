@@ -3,6 +3,16 @@
 # MyLibbb
 
 A library inventory app created using MERN stack
+
+
+- [MyLibbb](#mylibbb)
+  - [Why this app as created:](#why-this-app-as-created)
+  - [How to use:](#how-to-use)
+  - [Testing tools used for app:](#testing-tools-used-for-app)
+  - [Project resources:](#project-resources)
+    - [Future app goals:](#future-app-goals)
+    - [Completed tasks:](#completed-tasks)
+
 ## Why this app as created: 
 
 Proof of concept: App was developed as a demo/testing app for a future SaaS app. 
@@ -11,6 +21,7 @@ Proof of concept: App was developed as a demo/testing app for a future SaaS app.
 1. Clone repo into desired directory ```git clone https://github.com/tjdev7/MyLibbb.git``` or ```gh repo clone tjdev7/MyLibbb```
 2. Run ```npm install``` in your terminal to install all app node modules and dependencies
 3. Run ```yarn start``` in your terminal to run app on http://localhost:3000/
+4. 
 ## Testing tools used for app:
 
 - React Testing library

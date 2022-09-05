@@ -1,6 +1,6 @@
 {
   "name": "mylibbb",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Library inventory system. Created using MERN stack",
   "main": "index.js",
   "scripts": {
